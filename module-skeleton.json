@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-search-filament",
+  "capabilityKey": "liberusoftware/module-cms-search",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/cms-search-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/cms/nextjs/cms-search.md",
+  "presentationPlan": "projects/cms/filament/cms-search.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
